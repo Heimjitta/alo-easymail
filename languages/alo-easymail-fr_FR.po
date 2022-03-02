@@ -1114,8 +1114,8 @@ msgid ""
 "Your subscription was successfully activated. You will receive the next "
 "newsletter. Thank you."
 msgstr ""
-"Votre abonnement a été enregistré avec succès. Vous recevrez la prochain "
-"lettre d'information. Merc."
+"Votre abonnement a été enregistré avec succès. Vous recevrez la prochaine "
+"lettre d'information. Merci."
 
 # @ alo-easymail
 #: alo-easymail_subscr-page.php:93
